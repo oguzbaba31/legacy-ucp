@@ -92,7 +92,7 @@ $(document).ready(function()
 
 
 footer:
-```document.write('<script src="https://www.net/js/script.js" defer=""></script>\n<script src="https://www.legacy-rp.net/js/page.js" defer></script>\t\n\t\t\t\t\t\n<script type="text/javascript">\n\n$(document).ready(function()\n{\n\t$(".message_pop_n").delay(5000).fadeOut(300);\n});\n\n</script>');```
+document.write('<script src="https://www.net/js/script.js" defer=""></script>\n<script src="https://www.legacy-rp.net/js/page.js" defer></script>\t\n\t\t\t\t\t\n<script type="text/javascript">\n\n$(document).ready(function()\n{\n\t$(".message_pop_n").delay(5000).fadeOut(300);\n});\n\n</script>');```
 
 panel:
-```document.write('<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-Bx4pytHkyTDy3aJKjGkGoHPt3tvv6zlwWwjc3iqN7ktaaiEMLDPqLSZYts2OjKcBx1" crossorigin="anonymous">\n\t\t\t\t\n<link rel="stylesheet" href="https://www.legacy-rp.net/style.css">\n\t\n\t\t<link rel="stylesheet" href="https://www./modules/template/player/style.css">');```
+document.write('<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-Bx4pytHkyTDy3aJKjGkGoHPt3tvv6zlwWwjc3iqN7ktaaiEMLDPqLSZYts2OjKcBx1" crossorigin="anonymous">\n\t\t\t\t\n<link rel="stylesheet" href="https://www.legacy-rp.net/style.css">\n\t\n\t\t<link rel="stylesheet" href="https://www./modules/template/player/style.css">');
